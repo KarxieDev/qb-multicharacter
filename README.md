@@ -11,7 +11,7 @@ Added support for setting default number of characters per player per Rockstar l
 - [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - For the character creation and saving outfits. 
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - For adjusting the weather while player is creating a character.
 
-Can also be used with my other reskins
+Can also be used with ST4LTH's reskins
 - [qb-clothing](https://github.com/ST4LTH/qb-clothing)
 
 ## Screenshots
@@ -33,8 +33,5 @@ ensure qb-apartments
 ensure qb-clothing
 ensure qb-weathersync
 ```
-"# qb-multicharacter" 
-"# qb-multicharacter" 
-
 ## Credits
 - [ST4LTH Base Multichar](https://github.com/ST4LTH/qb-multicharacter)
