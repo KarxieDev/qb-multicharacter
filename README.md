@@ -15,7 +15,7 @@ Can also be used with my other reskins
 - [qb-clothing](https://github.com/ST4LTH/qb-clothing)
 
 ## Screenshots
-![Character Selection](https://cdn.discordapp.com/attachments/1213126674883805204/1213128612174368900/2024-02-28_23-39-42_-_Trim.mp4?ex=65fd938f&is=65eb1e8f&hm=e62096b44263099407647f2bd8d7a9d44a3b2204231cb0c36f06806662b40646&)
+![Character Selection](https://cdn.discordapp.com/attachments/1194309035483213874/1216371820127719515/image.png?ex=66002589&is=65edb089&hm=ef838e7c46ddae66062e60f085615ce5e8545eefb239a568c65ed5e0c3b5e2ba&)
 
 ## Features
 - Ability to create up to 4 characters and delete any character.
