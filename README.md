@@ -1,3 +1,6 @@
+# FIRST NP 4.0 MULTICHARACTER RELEASED BY ME 
+# SOME GAY3 ARE TRYIN TO SELL LOL . LIKE MAJESTIC , PAPPU , BRAVE
+# DON'T BE A GAY IT'S FREE SHIT 
 # qb-multicharacter
 Multi Character Feature for QB-Core Framework :people_holding_hands:
 
